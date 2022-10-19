@@ -52,6 +52,11 @@ body {
   color: #4c545d;
   margin-top: 1.5rem;
   margin: 0;
+  cursor: pointer;
+}
+
+.bg-image_top h1:hover {
+  color: var(--primary-color-a);
 }
 
 .bg-image_top p {
@@ -120,6 +125,11 @@ body {
 .top-ii .container-ii h2 {
   font-size: 2.5rem;
   color: #4c545d;
+  cursor: pointer;
+}
+
+.top-ii .container-ii h2:hover {
+  color: var(--primary-color-a);
 }
 
 .top-ii .container-ii p {
@@ -157,6 +167,11 @@ body {
 .top-iii .right-col span h3 {
   color: #4c545d;
   font-size: 1.6rem;
+  cursor: pointer;
+}
+
+.top-iii .right-col span h3:hover {
+  color: var(--primary-color-a);
 }
 
 .top-iii .right-col span p {
@@ -184,6 +199,11 @@ body {
 .top-iv .container-iv h2 {
   font-size: 2.5rem;
   color: #4c545d;
+  cursor: pointer;
+}
+
+.top-iv .container-iv h2:hover {
+  color: var(--primary-color-a);
 }
 
 .top-iv .container-iv p {
@@ -229,6 +249,11 @@ body {
 .top-vi .container-vi h2 {
   font-size: 2.5rem;
   color: #4c545d;
+  cursor: pointer;
+}
+
+.top-vi .container-vi h2:hover {
+  color: var(--primary-color-a);
 }
 
 .top-vi .container-vi p {
@@ -265,6 +290,11 @@ body {
 .top-vii .center-col h4 {
   font-size: 1.5rem;
   color: #4c545d;
+  cursor: pointer;
+}
+
+.top-vii .center-col h4:hover {
+  color: var(--primary-color-a);
 }
 
 .top-vii .center-col p {
@@ -313,6 +343,11 @@ body {
 .top-ix .container-ix h2 {
   font-size: 2.5rem;
   color: #4c545d;
+  cursor: pointer;
+}
+
+.top-ix .container-ix h2:hover {
+  color: var(--primary-color-a);
 }
 
 .top-ix .container-ix p {
